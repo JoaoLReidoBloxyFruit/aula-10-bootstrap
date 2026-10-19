@@ -1,0 +1,60 @@
+1-O que é o Bootstrap e para que ele serve no desenvolvimento web? 
+O Bootstrap é um dos frameworks front-end open-source (de código aberto) mais 
+populares do mundo. Ele serve para agilizar e padronizar o desenvolvimento de 
+sites e aplicações web responsivas e mobile-first, oferecendo um conjunto de 
+ferramentas como estilos CSS, componentes prontos e scripts em JS
+
+
+2-Quem criou o Bootstrap e em que contexto ele surgiu?
+O Bootstrap foi criado por Mark Otto e Jacob Thornton no Twitter (em meados de 2010). 
+Ele surgiu com o nome original de Twitter Blueprint para servir como um guia interno 
+de padronização para os desenvolvedores da empresa, reduzindo inconsistências entre 
+os projetos. Em agosto de 2011, foi lançado como projeto open-source no GitHub.
+
+
+3-É necessário saber JavaScript para usar o Bootstrap? Por quê?
+Não obrigatoriamente para o básico. É possível construir layouts 
+inteiros e usar estilos visuais usando apenas HTML e CSS do Bootstrap. 
+No entanto, o conhecimento de JavaScript (ou o uso do pacote JS do Bootstrap) 
+é necessário caso você deseje utilizar componentes interativos que dependem de 
+comportamentos dinâmicos, como menus dropdown, modais, carrosséis de imagens 
+e avisos (alerts) dispensáveis
+
+
+4-Cite pelo menos 5 componentes prontos que o Bootstrap oferece:
+Navbar (barra de navegação responsiva)
+Buttons (botões estilizados)
+Cards (caixas para exibição flexível de conteúdo)
+Modal (janelas sobrepostas/pop-ups)
+Alerts (caixas de mensagens de aviso ou confirmação)
+
+
+5-O que são as classes utilitárias do Bootstrap (utilities)? Dê 3 exemplos.
+São classes CSS pré-definidas focadas em uma única propriedade de estilo 
+específica, permitindo aplicar alinhamentos, espaçamentos, cores e bordas
+diretamente nas tags HTML sem precisar criar regras CSS do zero
+Ex 1: text-center (alinha o texto ao centro)
+Ex 2: mt-5 (aplica margem no topo — margin-top)
+Ex 3: d-flex (aplica a propriedade display: flex; ao elemento)
+
+
+6-Quais são as vantagens de usar um framework CSS como o Bootstrap?
+Produtividade e Velocidade: Desenvolvimento muito mais rápido com 
+componentes e estilos prontos.
+Responsividade Nativa: Sistema de grids flexível baseado em Flexbox 
+que se adapta facilmente a celulares, tablets e monitores.
+Padronização Visual: Garante inconsistência zero e boa usabilidade
+através de padrões de design validados.
+Comunidade e Documentação: Ampla documentação e suporte comunitário 
+para resolver dúvidas.
+
+
+7-Quais são possíveis desvantagens ou limitações do uso do Bootstrap?
+Visual Padronizado: Sites sem customização costumam parecer muito 
+genéricos ou "com cara de Bootstrap".
+Arquivo Pesado (Sobrecarga de código): O Bootstrap inclui muitas
+classes e regras que o seu projeto pode acabar não utilizando,
+gerando CSS desnecessário se não for otimizado.
+Curva de aprendizado em customizações complexas: Sobrescrever
+ou modificar o comportamento nativo dos elementos exige entender
+a especificidade do CSS do framework.
